@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ハルノ寂寞",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-07T08:05:52.141389Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルノ寂寞",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_ハルノ寂寞_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルノ寂寞 (Haru no Sekibaku)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/02_ハルノ寂寞_(Haru_no_Sekibaku)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルノ寂寞",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/03_ハルノ寂寞_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハルノ寂寞 (Loneliness of Spring)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/04_ハルノ寂寞_(Loneliness_of_Spring)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハルノ寂寞",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/05_ハルノ寂寞_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハルノ寂寞",
+      "artist": "稲葉曇 feat.弦巻マキ",
+      "has_synced": true,
+      "path": "select/06_ハルノ寂寞_稲葉曇_feat.弦巻マキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルノ寂寞",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ハルノ寂寞_稲葉曇.txt"
+    }
+  ]
+}
